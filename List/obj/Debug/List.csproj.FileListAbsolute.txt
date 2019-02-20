@@ -1,0 +1,7 @@
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\bin\Debug\List.exe.config
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\bin\Debug\List.exe
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\bin\Debug\List.pdb
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\obj\Debug\List.exe
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\List\obj\Debug\List.pdb

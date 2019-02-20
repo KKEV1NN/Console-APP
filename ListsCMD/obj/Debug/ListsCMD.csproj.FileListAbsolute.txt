@@ -1,0 +1,7 @@
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\bin\Debug\ListsCMD.exe.config
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\bin\Debug\ListsCMD.exe
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\bin\Debug\ListsCMD.pdb
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\obj\Debug\ListsCMD.csproj.CoreCompileInputs.cache
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\obj\Debug\ListsCMD.exe
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\obj\Debug\ListsCMD.pdb
+C:\Users\Gwnk3\Documents\Visual Studio 2017\Projects\ConsoleApp1\ListsCMD\obj\Debug\ListsCMD.csprojAssemblyReference.cache
