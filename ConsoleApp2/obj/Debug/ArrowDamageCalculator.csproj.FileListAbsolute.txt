@@ -1,0 +1,6 @@
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp2\obj\Debug\ArrowDamageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
