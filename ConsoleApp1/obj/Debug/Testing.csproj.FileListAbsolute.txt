@@ -1,0 +1,7 @@
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gwnk3\Documents\GitHub\Console-APP\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

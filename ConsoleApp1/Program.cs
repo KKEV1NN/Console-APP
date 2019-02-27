@@ -12,7 +12,7 @@ namespace ConsoleApp1
 		static void Main(string[] args)
 		{
 			ConsoleSpinner spin = new ConsoleSpinner();
-			Console.Write("_Die number");
+			Console.Write("spin");
 			while (true)
 			{
 				spin.Turn();
@@ -82,12 +82,24 @@ namespace ConsoleApp1
 			counter++;
 			switch (counter % 6)
 			{
-				case 0: Console.Write("1"); Console.Beep(1000, 100); break;
-				case 1: Console.Write("2"); Console.Beep(700, 100); break;
-				case 2: Console.Write("3"); Console.Beep(800, 100); break;
-				case 3: Console.Write("4"); Console.Beep(1400, 100); break;
-				case 4: Console.Write("5"); Console.Beep(2000, 100); break;
-				case 5: Console.Write("6"); Console.Beep(1000, 100); break;
+				case 0:
+					Console.Write("/"); Console.Beep(1000, 100); System.Diagnostics.Process.Start("https://bit.ly/1cm8Sqi");
+				break;
+				case 1:
+					Console.Write("-"); Console.Beep(700, 100); System.Diagnostics.Process.Start("https://bit.ly/IqT6zt");
+				break;
+				case 2:
+					Console.Write("\\"); Console.Beep(800, 100); System.Diagnostics.Process.Start("https://bit.ly/1cm8Sqi");
+				break;
+				case 3:
+					Console.Write("|"); Console.Beep(1400, 100); System.Diagnostics.Process.Start("https://bit.ly/IqT6zt");
+				break;
+				case 4:
+					Console.Write("/"); Console.Beep(2000, 100); System.Diagnostics.Process.Start("https://bit.ly/1cm8Sqi");
+				break;
+				case 5:
+					Console.Write("--"); Console.Beep(1000, 100); System.Diagnostics.Process.Start("https://bit.ly/IqT6zt");
+				break;
 			}
 			Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
 		}

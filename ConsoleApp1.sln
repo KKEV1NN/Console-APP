@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6F609774-6DAE-40D6-B013-3EFC9528687A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "ConsoleApp1\Testing.csproj", "{6F609774-6DAE-40D6-B013-3EFC9528687A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsCMD", "ListsCMD\ListsCMD.csproj", "{A7B8981B-0310-44E5-BB1A-1BAE23C501AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z_Explenations", "ListsCMD\z_Explenations.csproj", "{A7B8981B-0310-44E5-BB1A-1BAE23C501AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{FBB38F73-9331-4AE2-BEEF-75C1D13B9A54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists and Logic", "List\Lists and Logic.csproj", "{FBB38F73-9331-4AE2-BEEF-75C1D13B9A54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowDamageCalculator", "ConsoleApp2\ArrowDamageCalculator.csproj", "{82F4024B-3F25-4817-9D7C-96EA87F5B48B}"
 EndProject
