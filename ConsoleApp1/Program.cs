@@ -72,8 +72,7 @@ namespace ConsoleApp1
 	public class ConsoleSpinner
 	{
 		int counter;
-		public
-			 ConsoleSpinner()
+		public ConsoleSpinner()
 		{
 			counter = 0;
 		}

@@ -24,8 +24,7 @@ namespace List
 			public override bool Equals(object obj)
 			{
 				if (obj == null) return false;
-				Cube objAsPart = obj as Cube;
-				if (objAsPart == null) return false;
+				if (!(obj is Cube objAsPart)) return false;
 				else return Equals(objAsPart);
 			}
 			public override int GetHashCode()
@@ -39,13 +38,15 @@ namespace List
 		static void Main(string[] args)
 		{
 			#region Opdracht 1&2
-			List<int> primeNum = new List<int>();
 
-			primeNum.Add(2);
-			primeNum.Add(3);
-			primeNum.Add(5);
-			primeNum.Add(7);
-			primeNum.Add(11);
+			List<int> primeNum = new List<int>
+			{
+				2,
+				3,
+				5,
+				7,
+				11
+			};
 
 			Console.WriteLine("Maak een lijst aan met daarin 5 priemgetallen.");
 
@@ -129,11 +130,12 @@ namespace List
 			#region Opdracht 6
 			Console.WriteLine("Maak nog een lijst met 3 namen, die mag je zelf invullen");
 
-			List<string> nameList2 = new List<string>();
-
-			nameList2.Add("Itadaki Seiki");
-			nameList2.Add("Mankitsu Happening");
-			nameList2.Add("Amakano");
+			List<string> nameList2 = new List<string>
+			{
+				"Itadaki Seiki",
+				"Mankitsu Happening",
+				"Amakano"
+			};
 
 			Console.ReadKey();
 
@@ -209,18 +211,19 @@ namespace List
 
 			Console.WriteLine("TRIPLEACTIONSUPERBONUS");
 
-			List<Cube> cubes = new List<Cube>();
-
-			cubes.Add(new Cube() { NameOfCube = "Luke", IDOfCube = 1234, ColourOfCube = " blue" });
-			cubes.Add(new Cube() { NameOfCube = "Peter", IDOfCube = 3232, ColourOfCube = " blue" });
-			cubes.Add(new Cube() { NameOfCube = "David", IDOfCube = 4245, ColourOfCube = " red" });
-			cubes.Add(new Cube() { NameOfCube = "Drake", IDOfCube = 3525, ColourOfCube = " green" });
-			cubes.Add(new Cube() { NameOfCube = "Josh", IDOfCube = 4325, ColourOfCube = " red" });
-			cubes.Add(new Cube() { NameOfCube = "Kevin", IDOfCube = 6453, ColourOfCube = " blue" });
-			cubes.Add(new Cube() { NameOfCube = "Frank", IDOfCube = 1123, ColourOfCube = " green" });
-			cubes.Add(new Cube() { NameOfCube = "Helen from accounting", IDOfCube = 3242, ColourOfCube = " red" });
-			cubes.Add(new Cube() { NameOfCube = "Edgar", IDOfCube = 3432, ColourOfCube = " red" });
-			cubes.Add(new Cube() { NameOfCube = "Anton", IDOfCube = 6435, ColourOfCube = " green" });
+			List<Cube> cubes = new List<Cube>
+			{
+				new Cube() { NameOfCube = "Luke", IDOfCube = 1234, ColourOfCube = " blue" },
+				new Cube() { NameOfCube = "Peter", IDOfCube = 3232, ColourOfCube = " blue" },
+				new Cube() { NameOfCube = "David", IDOfCube = 4245, ColourOfCube = " red" },
+				new Cube() { NameOfCube = "Drake", IDOfCube = 3525, ColourOfCube = " green" },
+				new Cube() { NameOfCube = "Josh", IDOfCube = 4325, ColourOfCube = " red" },
+				new Cube() { NameOfCube = "Kevin", IDOfCube = 6453, ColourOfCube = " blue" },
+				new Cube() { NameOfCube = "Frank", IDOfCube = 1123, ColourOfCube = " green" },
+				new Cube() { NameOfCube = "Helen from accounting", IDOfCube = 3242, ColourOfCube = " red" },
+				new Cube() { NameOfCube = "Edgar", IDOfCube = 3432, ColourOfCube = " red" },
+				new Cube() { NameOfCube = "Anton", IDOfCube = 6435, ColourOfCube = " green" }
+			};
 
 			foreach (var item in cubes)
 			{
